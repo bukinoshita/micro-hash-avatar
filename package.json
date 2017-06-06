@@ -1,0 +1,19 @@
+{
+  "name": "micro-hash-avatar",
+  "version": "0.0.0",
+  "description": "A microservice for serving hash avatar",
+  "main": "index.js",
+  "repository": "git@github.com:bukinoshita/micro-hash-avatar.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "fs-promise": "^2.0.3",
+    "hapi": "^16.2.0",
+    "hash-avatar": "^0.0.1",
+    "inert": "^4.2.0"
+  }
+}
