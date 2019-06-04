@@ -13,7 +13,7 @@
   "dependencies": {
     "fs-promise": "^2.0.3",
     "hapi": "^16.2.0",
-    "hash-avatar": "^0.0.1",
+    "hash-avatar": "^0.0.2",
     "inert": "^4.2.0"
   }
 }
